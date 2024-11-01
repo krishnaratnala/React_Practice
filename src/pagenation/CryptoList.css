@@ -1,0 +1,8 @@
+.crypto-list {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);  /* 4 items per row */
+    gap: 1rem;
+    padding: 1rem;
+    max-width: 1000px;
+    margin: 0 auto;
+}

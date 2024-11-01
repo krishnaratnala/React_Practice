@@ -1,0 +1,14 @@
+.app {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    font-size: 2em;
+    color: hsl(0, 86%, 3%);
+}
+.body{
+    background-color: #e5e3e3;
+}
